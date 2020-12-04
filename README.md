@@ -8,7 +8,7 @@ I'm Jubayer Rahman George from Bangladesh and I am a Web Developer. I Love To Co
 - 🥅 2020 Goals: Learn Vue.
 - ⚡ Fun fact: I love Research any topics.
 
-**[Resume](https://docs.google.com/document/d/1xKf-0kOG1sd2OAGuCKZrF2xC42QM9pfbcihGcojTKyA/edit?usp=sharing)**
+**[Resume](https://docs.google.com/document/d/1xKf-0kOG1sd2OAGuCKZrF2xC42QM9pfbcihGcojTKyA/export?format=pdf)**
 
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mjrgeorge)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-jubayer-rahman-george-3776b21b1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mjrgeorge)  
