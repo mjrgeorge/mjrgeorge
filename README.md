@@ -1,12 +1,12 @@
 ### Hi there 👋, Jubayer Rahman George
 #### Web Developer
-I'm Jubayer Rahman George from Bangladesh and I am a Web Developer. I Love To Code Modern And Responsive Layouts For Web Application. My Core Skill Is Based On JavaScript And I Love To Do Most Interesting Things Using React.Js And Node.Js. I Think I Have Enough Knowledge In The HTML, CSS, SASS, Bootstrap, JavaScript, ES6, React.Js, React-Router, React-Bootstrap, Material-UI, Firebase, Netlify And Also Comfortable With Node.JS, Express.JS, MongoDB. I Try To Improve Myself In Every Moment. Optimizing My Work Flow In Every Step Of My Life. I Always Try To Learn New Things And I Love To Make New Things.
+I'm Jubayer Rahman George from Bangladesh and I am a Web Developer. I Love To Code Modern And Responsive Layouts For Web Applications. My Core Skill Is Based On JavaScript And I Love To Do Most Interesting Things Using React.Js And Node.Js. I Think I Have Enough Knowledge In The HTML, CSS, SASS, Bootstrap, JavaScript, ES6, React.Js, React-Router, React-Bootstrap, Material-UI, Firebase, Netlify And Also Node.JS, Express.JS, MongoDB, PostgreSQL, Prisma and others. I Try To Improve Myself In Every Moment. Optimizing My Work Flow In Every Step Of My Life. I Always Try To Learn New Things And I Love To Make New Things.
 
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate with other web developer
+- 👯 I’m looking to collaborate with other web developers
 - 🤔 I’m looking for help with ...
-- 🥅 2020 Goals: Learn Vue.
-- ⚡ Fun fact: I love Research any topics.
+- 🥅 2024 Goals: Learn React Native.
+- ⚡ Fun fact: I love researching any topic.
 
 **[Resume](https://docs.google.com/document/d/1xKf-0kOG1sd2OAGuCKZrF2xC42QM9pfbcihGcojTKyA/export?format=pdf)**
 
